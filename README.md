@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi, I'm Jonas, studying [Computer engineering](https://informatics.tuwien.ac.at/bachelor/computer-engineering/) at [TU Wien](https://www.tuwien.at/) since 2022. 
+
+Currently trying to learn all, from coding to hardware and electronics. 
+
+
 
 <!--
 **jjj120/jjj120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
