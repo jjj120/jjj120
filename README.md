@@ -2,6 +2,7 @@ Hi, I'm Jonas, studying [Computer engineering](https://informatics.tuwien.ac.at/
 
 Currently trying to learn all, from coding to hardware and electronics. 
 
+In my free time I play arround with various electronics in combination with the Raspberry Pi Pico, for the most part trying to get them running, so I can learn how it works. 
 
 
 <!--
