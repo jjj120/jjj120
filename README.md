@@ -1,8 +1,8 @@
 Hi, I'm Jonas, studying [Computer engineering](https://informatics.tuwien.ac.at/bachelor/computer-engineering/) at [TU Wien](https://www.tuwien.at/) since 2022. 
 
-Currently trying to learn all, from coding to hardware and electronics. 
+- Currently trying to learn all, from coding to hardware and electronics. 
 
-In my free time I play arround with various electronics in combination with the Raspberry Pi Pico, for the most part trying to get them running, so I can learn how it works. 
+- In my free time I play arround with various electronics in combination with the Raspberry Pi Pico, for the most part trying to get them running, so I can learn how it works. 
 
 
 <!--
