@@ -13,36 +13,13 @@ I'm currently studying Computer Engineering at TU Wien since 2022, and I'm passi
 
 Here are some of the skills I'm currently learning, in no particular order:
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Electronics Logo" class="transparent" width=48, height=48> </a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Electronics Logo" class="transparent" width=48, height=48> </a>
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="Electronics Logo" class="transparent" width=64, height=32> </a>
+<a href="https://port70.net/~nsz/c/c11/n1570.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Logo" class="transparent" width=48, height=48> </a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="RaspberryPi Logo" class="transparent" width=48, height=48> </a>
+<a href="https://riscv.org/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg" alt="RISC-V Logo" class="transparent" width=48, height=48> </a>
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="Latex Logo" class="transparent" width=64, height=32> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" class="transparent" width=48, height=48> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> </a>
 <a href="https://www.mathcad.com/de" target="_blank" rel="noreferrer"> <img src="https://www.mathcad.com/dist/ptc/images/ptc-favicon-512x512-gray.png" alt="git" width="48" height="48"/> </a>
 <a href="https://www.autodesk.de/products/autocad/" target="_blank" rel="noreferrer"> <img src="/images/autocad.png" alt="git" width="48" height="48"/> </a>
 <a href="https://www.autodesk.de/products/fusion-360" target="_blank" rel="noreferrer"> <img src="/images/fusion360.png" alt="git" width="48" height="48"/> </a>
-
-<!--
-
-| Skill | Logo |
-| ------|------|
-| (Micro-) Python | ![Python logo](https://img.icons8.com/color/48/000000/python.png) |
-| Raspberry Pi (Pico) | <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Electronics Logo" class="transparent" width=48, height=48> </a> |
-| Electronics | <img src="/images/curcuit.png" alt="Electronics Logo" class="transparent" width=48, height=48> |
-| LaTex | <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="Electronics Logo" class="transparent" width=64, height=32> </a> |
-| Java | <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> </a> |
-| Git | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> </a> |
-| MathCAD | <a href="https://www.mathcad.com/de" target="_blank" rel="noreferrer"> <img src="https://www.mathcad.com/dist/ptc/images/ptc-favicon-512x512-gray.png" alt="git" width="48" height="48"/> </a> |
-| AutoCAD | <a href="https://www.autodesk.de/products/autocad/" target="_blank" rel="noreferrer"> <img src="/images/autocad.png" alt="git" width="48" height="48"/> </a> |
-| Fusion360 | <a href="https://www.autodesk.de/products/fusion-360" target="_blank" rel="noreferrer"> <img src="/images/fusion360.png" alt="git" width="48" height="48"/> </a> |
-
--->
-
-
-<!--
-Hi, I'm Jonas, studying [Computer engineering](https://informatics.tuwien.ac.at/bachelor/computer-engineering/) at [TU Wien](https://www.tuwien.at/) since 2022. 
-
-- Currently trying to learn all, from coding to hardware and electronics. 
-
-- In my free time I play arround with various electronics in combination with the Raspberry Pi Pico, for the most part trying to get them running, so I can learn how it works. 
--->
