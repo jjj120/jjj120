@@ -14,6 +14,7 @@ I'm currently studying Computer Engineering at TU Wien since 2022, and I'm passi
 Here are some of the skills I'm currently learning, in no particular order:
 
 <a href="https://port70.net/~nsz/c/c11/n1570.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Logo" class="transparent" width=48, height=48> </a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go Logo" class="transparent" width=48, height=48> </a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="RaspberryPi Logo" class="transparent" width=48, height=48> </a>
 <a href="https://riscv.org/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg" alt="RISC-V Logo" class="transparent" width=48, height=48> </a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="Latex Logo" class="transparent" width=64, height=32> </a>
