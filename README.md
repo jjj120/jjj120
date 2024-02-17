@@ -21,6 +21,6 @@ Here are some of the skills I'm currently learning, in no particular order:
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Logo" class="transparent" width=48, height=48> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> </a>
-<a href="https://www.mathcad.com/de" target="_blank" rel="noreferrer"> <img src="https://www.mathcad.com/dist/ptc/images/ptc-favicon-512x512-gray.png" alt="git" width="48" height="48"/> </a>
-<a href="https://www.autodesk.de/products/autocad/" target="_blank" rel="noreferrer"> <img src="/images/autocad.png" alt="git" width="48" height="48"/> </a>
-<a href="https://www.autodesk.de/products/fusion-360" target="_blank" rel="noreferrer"> <img src="/images/fusion360.png" alt="git" width="48" height="48"/> </a>
+<a href="https://www.mathcad.com/de" target="_blank" rel="noreferrer"> <img src="https://www.mathcad.com/dist/ptc/images/ptc-favicon-512x512-gray.png" alt="mathcad" width="48" height="48"/> </a>
+<a href="https://www.autodesk.de/products/autocad/" target="_blank" rel="noreferrer"> <img src="/images/autocad.png" alt="autocad" width="48" height="48"/> </a>
+<a href="https://www.autodesk.de/products/fusion-360" target="_blank" rel="noreferrer"> <img src="/images/fusion360.png" alt="fusion360" width="48" height="48"/> </a>
