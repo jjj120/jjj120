@@ -24,3 +24,4 @@ Here are some of the skills I'm currently learning, in no particular order:
 <a href="https://www.mathcad.com/de" target="_blank" rel="noreferrer"> <img src="https://www.mathcad.com/dist/ptc/images/ptc-favicon-512x512-gray.png" alt="mathcad" width="48" height="48"/> </a>
 <a href="https://www.autodesk.de/products/autocad/" target="_blank" rel="noreferrer"> <img src="/images/autocad.png" alt="autocad" width="48" height="48"/> </a>
 <a href="https://www.autodesk.de/products/fusion-360" target="_blank" rel="noreferrer"> <img src="/images/fusion360.png" alt="fusion360" width="48" height="48"/> </a>
+<a href="https://www.instagram.com/jjj120_/" target="_blank" rel="noreferrer"> <img src="/images/eos_r6.png" alt="Photography" width="66" height="44"/> </a>
